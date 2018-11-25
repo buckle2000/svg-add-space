@@ -1,3 +1,11 @@
+![](https://img.shields.io/npm/n/svg-add-space.svg)
+![](https://img.shields.io/npm/v/svg-add-space.svg)
+![](https://img.shields.io/npm/l/svg-add-space.svg)
+
+`npm install svg-add-space -g`
+
+`yarn global add svg-add-space`
+
 ## Use Case
 
 ![](assets/test.svg)
