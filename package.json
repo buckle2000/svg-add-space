@@ -1,5 +1,9 @@
 {
+  "name": "svg-add-space",
+  "version": "1.0.0",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "cjk-regex": "^2.0.0"
-  }
+  },
+  "bin": "index.js"
 }
