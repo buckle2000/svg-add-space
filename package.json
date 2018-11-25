@@ -1,9 +1,17 @@
 {
   "name": "svg-add-space",
-  "version": "1.0.0",
+  "author": {
+    "name": "buckle2000"
+  },
+  "version": "1.0.1",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "cjk-regex": "^2.0.0"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buckle2000/svg-add-space"
+  }
 }
